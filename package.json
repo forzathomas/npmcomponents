@@ -1,0 +1,12 @@
+{
+  "name": "npmcomponents",
+  "version": "1.5.1",
+  "description": "A library of a lot of rn components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "all": "npm version patch && npm publish"
+  },
+  "author": "",
+  "license": "ISC"
+}
