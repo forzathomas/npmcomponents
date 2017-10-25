@@ -11,7 +11,7 @@ pipelines:
         caches:
           - node
         script: # Modify the commands below to build your repository.
-          - npm install npm-cli-login version publish
+          - npm install -g npm-cli-login version publish
           - npm-cli-login -u 'forzathomas' -p 'xppro2007' -e 'thomas-machiels@hotmail.com'
           - npm version patch
           - npm publish
