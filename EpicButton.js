@@ -5,7 +5,7 @@ class EpicButton extends Component {
     render() {
         const {onPress} = this.props
         return (
-            <Button title="Knop" onPress={onPress}/>
+            <Button title="Knopke" onPress={onPress}/>
         )
     }
 }
