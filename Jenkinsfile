@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Test') {
       steps {
-        sh 'jest'
+        sh 'npm install'
       }
     }
   }
