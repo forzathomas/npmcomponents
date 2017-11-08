@@ -8,7 +8,7 @@ import EpicButton3 from './EpicButton3'
 
 //even more comments x2
 
-//bal bla bla test test
+//bal bla bla test test more
 
 exports.EpicButton = EpicButton
 exports.EpicButton2 = EpicButton2
